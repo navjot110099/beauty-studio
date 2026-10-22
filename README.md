@@ -4,6 +4,8 @@
 
 A two-page marketing site for **Velora**, a fictional editorial beauty studio on Marylebone High Street, London. The site is built to feel like a luxury print magazine: warm ivory paper, espresso type, muted rose accents and slow, considered motion.
 
+**Live site:** <https://beauty-studio-azure.vercel.app>
+
 ![Velora Beauty — home page](docs/screenshots/home-desktop.jpg)
 
 ## Features
